@@ -1,0 +1,9 @@
+{
+	"name": "strings",
+	"version": "0.0.1",
+	"author": "Anton Rissanen",
+	"licenses": ["MIT"],
+	"scripts": {
+		"test": "jasmine-node --coffee spec/"
+	}
+}
