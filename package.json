@@ -1,9 +1,13 @@
 {
-	"name": "strings",
+	"name": "garbler",
 	"version": "0.0.1",
 	"author": "Anton Rissanen",
 	"licenses": ["MIT"],
 	"scripts": {
 		"test": "jasmine-node --coffee spec/"
+	},
+	"devDependendencies": {
+		"jasmine-node": ">=1.0.x",
+		"coffee-script": ">=1.2.x"
 	}
 }
